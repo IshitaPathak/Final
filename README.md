@@ -1,5 +1,5 @@
 ## List of important Git commands
-
+--------------------------------------
 1.```git init```: Initialize a new Git repository.
 ---
 2.```git clone [repository]```: Clone a remote repository to your local machine.
